@@ -16,7 +16,7 @@ function setup() {
    bg.addImage(bgImage);
     
 
-  balloon=createSprite(300, 400, 5, 5);
+  balloon=createSprite(100,100, 5, 5);
   balloon.addAnimation("moving",balloonAnimation)
   
 
